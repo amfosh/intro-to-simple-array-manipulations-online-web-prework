@@ -18,7 +18,7 @@ def using_shift(my_favorite_cities)
   array.shift
 end
 
-def shift_with_args
+def shift_with_args(ice_cream_brands)
   array.shift[0..2]
 end
 
