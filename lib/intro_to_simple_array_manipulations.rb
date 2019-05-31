@@ -2,7 +2,7 @@ def using_push(countries_in_western_africa, next_country)
   countries_in_western_africa.push(next_country) 
 end
 
-def using_unshift(array,string)
+def using_unshift(neighborhoods_in_northwest_brooklyn,string)
   string.unshift("new neighborhood")
 end
 
