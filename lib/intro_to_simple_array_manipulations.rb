@@ -11,7 +11,7 @@ def using_pop(great_hits_of_the_nineties)
 end
 
 def pop_with_args(chars_in_game_of_thrones)
-  array.pop(chars_arya_killed)
+  array.pop(2)
 end
 
 def using_shift(array)
