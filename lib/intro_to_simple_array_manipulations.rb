@@ -14,8 +14,8 @@ def pop_with_args(chars_in_game_of_thrones)
   array.pop(2)
 end
 
-def using_shift(array)
-  array.shift 
+def using_shift(my_favorite_cities)
+  array.shift(im_so_over)
 end
 
 def shift_with_args
