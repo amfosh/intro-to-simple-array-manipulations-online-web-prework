@@ -1,4 +1,4 @@
-def using_push(array,string)
+def using_push(countries_in_western_africa, string)
   string.push 
 end
 
