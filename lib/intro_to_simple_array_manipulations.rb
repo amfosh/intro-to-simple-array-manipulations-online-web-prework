@@ -19,7 +19,7 @@ def using_shift(my_favorite_cities)
 end
 
 def shift_with_args(ice_cream_brands)
-  array.shift[0..2]
+  array.shift(2)
 end
 
 def using_concat(array1,array2)
