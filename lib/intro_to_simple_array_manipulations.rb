@@ -22,7 +22,7 @@ def shift_with_args(ice_cream_brands)
   array.shift(2)
 end
 
-def using_concat(array1,array2)
+def using_concat(my_favorite_things, more_favs)
   array.concat(array1, array2)
 end
 
