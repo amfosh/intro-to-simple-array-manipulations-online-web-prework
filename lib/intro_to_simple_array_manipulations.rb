@@ -26,6 +26,6 @@ def using_concat(my_favorite_things, more_favs)
   my_favorite_things.concat(more_favs)
 end
 
-def unsing_insert(list_of_esoteric_programming_languages, )
+def unsing_insert(list_of_esoteric_programming_languages, another_)
 
 end
